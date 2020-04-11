@@ -1,2 +1,2 @@
-# neddit
-Implementing reddit in nodejs
+# Squado
+A coworking space for everyone
